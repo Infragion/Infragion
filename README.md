@@ -1,1 +1,1 @@
-[![EgorChernov37's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorchernov37)](https://github.com/anuraghazra/github-readme-stats)
+![stat](https://github-readme-stats.vercel.app/api?username=EgorChernov37a&show_icons=true&theme=radical)
