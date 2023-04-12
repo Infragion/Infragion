@@ -4,6 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorChernov37&exclude_repo=frityet.github.io,Blog,wiki,CoDZombies-H3VR,MeatKit,WurstLink,OkBot,robot&theme=dark&hide=cmake,makefile,shaderlab,mathematica,hlsl)
 
-![Contributions](https://activity-graph.herokuapp.com/graph?username=egorchernov37&theme=github&hide_border=false&area=false)
+[![EgorChernov37's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EgorChernov37)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </center>
