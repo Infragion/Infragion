@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EgorChernov37)](https://git.io/streak-stats)
+[![EgorChernov37's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorchernov37)](https://github.com/anuraghazra/github-readme-stats)
