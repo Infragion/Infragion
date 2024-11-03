@@ -1,6 +1,6 @@
 <center>
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/598858786949824542?bg=111111&showDisplayName=true&idleMessage=null)](https://discord.com/users/598858786949824542)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/598858786949824542?bg=111111&showDisplayName=true&idleMessage)](https://discord.com/users/598858786949824542)
   
   [![EgorChernov37's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infragion&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/Infragion)
   
